@@ -18,10 +18,12 @@
 }
 
 #roundedborder {
-  border-radius: 100px;
-  padding: 20px;
+  padding: 10px;
   outline:solid;
   outline-width: thin;
+  text-align: center;
+  width:230;
+  
   
   
 }
