@@ -19,8 +19,8 @@
 
 #roundedborder {
   padding: 10px;
-  outline:solid;
-  outline-width: thin;
+  border:solid;
+  border-width: thin;
   text-align: center;
   width:230;
   margin-left: 140;
