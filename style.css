@@ -8,6 +8,9 @@
 #textbox {
   color: black;
   outline: solid;
-  outline: 
+  outline-width: thin;
+  outline-offset: 10px;
+  text-align: center;
+  
   
 }
