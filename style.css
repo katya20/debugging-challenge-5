@@ -1,8 +1,9 @@
 #title {
   color: white;
   background-color: blue;
-  width: 200;
+  width: 250;
   text-align: center; 
+  margin-left: 150;
 }
 
 #textbox {
@@ -11,6 +12,7 @@
   outline-width: thin;
   outline-offset: 10px;
   text-align: center;
-  
+  width: 200;
+  margin-left: 150;
   
 }
