@@ -6,4 +6,7 @@
 }
 
 #textbox {
-  color: bla
+  color: black;
+  outline-width: medium;
+  
+}
